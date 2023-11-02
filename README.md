@@ -1,7 +1,7 @@
 # CODEMBER
 
 <details>
-<summary>Retos y secretos</summary>
+<summary>Retos</summary>
 
 
 ### Retos
